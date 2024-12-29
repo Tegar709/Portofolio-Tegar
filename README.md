@@ -7,7 +7,10 @@
 You can find my CV [here](https://drive.google.com/file/d/1AfXBHuslK1JkzXgDs3rFzTmyXd-_9nz8/view?usp=sharing).
 
 ## About Me
-I'm a passionate QUality Assurance who loves to [brief description of what you do/interested in]. Currently focusing on [your current focus/interests].
+I'm a detail-oriented QA Engineer with a focus on manual testing for web and mobile applications. Currently working at PT. Swift Logistic Solution (GTL/Bytedance) through PT Kita Mitra Indonesia, I bring extensive experience in test planning, execution, and defect reporting. 
+
+I'm passionate about delivering high-quality software and creating collaborative team environments. While I'm proficient in manual testing and bug tracking using tools like Jira, I'm actively expanding my expertise in API testing and automation.
+
 
 ## Projects
 
@@ -22,11 +25,12 @@ A [brief technology stack] project that [what it does/solves]. This project demo
 
 
 ## Skills
-- Language: [List your programming languages]
-- Frameworks: [List frameworks you're proficient in]
-- Tools: [List development tools you use]
+- **Quality Assurance:** Manual testing, Test Planning and Design, Bug Tracking (Jira), Web and Mobile App Testing, API testing, Automation
+- **Tools:** Postman, Katalon, Collaborative Tools (Slack and Lark), Test Management Tools (Bits test management), Jira
+- **Soft Skills:** Detail-oriented, Communication, Collaboration, Adaptable learner
+
 
 ## Contact
-Feel free to reach out to me:
-- LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
-- Email: [your-email@domain.com]
+- 📧 Email: tegar.firmansyah709@gmail.com
+  
+
