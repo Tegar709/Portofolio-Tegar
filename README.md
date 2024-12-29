@@ -7,7 +7,7 @@
 You can find my CV [here](https://drive.google.com/file/d/1AfXBHuslK1JkzXgDs3rFzTmyXd-_9nz8/view?usp=sharing).
 
 ## About Me
-I'm a detail-oriented QA Engineer with a focus on manual testing for web and mobile applications. Currently working at PT. Swift Logistic Solution (GTL/Bytedance) through PT Kita Mitra Indonesia, I bring extensive experience in test planning, execution, and defect reporting. 
+I'm a detail-oriented QA Engineer with experience in manual testing for web and mobile applications. Currently working at PT. Swift Logistic Solution (GTL/Bytedance) through PT Kita Mitra Indonesia, I bring extensive experience in test planning, execution, and defect reporting. 
 
 I'm passionate about delivering high-quality software and creating collaborative team environments. While I'm proficient in manual testing and bug tracking using tools like Jira, I'm actively expanding my expertise in API testing and automation.
 
